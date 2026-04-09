@@ -39,7 +39,7 @@ cd EcommenceWebsite
 npm install
 
 # Start the development server
-npm run build
+npm run dev
 
 
 ⸻
